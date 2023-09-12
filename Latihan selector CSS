@@ -1,0 +1,12 @@
+pada bagian HTML
+
+<h1 class ="red" id="idRed">hello</h1>
+<h1> not Red </h1>
+<p class = "red">lorem ipsum dolor sit omet</p>
+<span>bold text </span>
+<input placeholder="html" type= "text"/>
+
+pada bagian CSS
+
+[placeholder="html"]{
+  color: blue;}
